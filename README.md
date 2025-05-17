@@ -1,6 +1,27 @@
-# Welcome to your Expo app 👋
+# 📷 SocialGram – Minimal Instagram Viewer (No Reels)
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**SocialGram** is a distraction-free Instagram viewer built with [Expo](https://expo.dev/). It filters out Reels and short-form videos, giving you a calm, photo-first experience — perfect for staying connected without the noise.
+
+> ⚠️ **This project is for educational purposes only. It is not affiliated with, endorsed by, or connected to Instagram or Meta.**
+
+---
+
+## ✨ Features
+
+- ✅ View Instagram feed in a minimal, mobile-friendly interface
+- 🚫 Filters out Reels and short-form videos
+- 🧘 Built for focus – no explore tab, no clutter
+- ⚡ Powered by Expo and React Native for fast development
+
+---
+
+## 🛠️ Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/socialgram.git
+cd socialgram
 
 ## Get started
 
